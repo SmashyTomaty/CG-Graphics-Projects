@@ -1,0 +1,41 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Normals.vcxproj, Waves.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  Application.cpp
+C:\Users\elias\Documents\Visual Studio 2019\CPProjects\ComputoGrafico2022-2\GraphComp\PACMAN\src\Application.cpp(68,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\elias\Documents\Visual Studio 2019\CPProjects\ComputoGrafico2022-2\GraphComp\PACMAN\src\Application.cpp(69,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\elias\Documents\Visual Studio 2019\CPProjects\ComputoGrafico2022-2\GraphComp\PACMAN\src\Application.cpp(70,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\elias\Documents\Visual Studio 2019\CPProjects\ComputoGrafico2022-2\GraphComp\PACMAN\src\Application.cpp(71,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\elias\Documents\Visual Studio 2019\CPProjects\ComputoGrafico2022-2\GraphComp\PACMAN\src\Application.cpp(120,17): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\elias\Documents\Visual Studio 2019\CPProjects\ComputoGrafico2022-2\GraphComp\PACMAN\src\Application.cpp(214,28): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\elias\Documents\Visual Studio 2019\CPProjects\ComputoGrafico2022-2\GraphComp\PACMAN\src\Application.cpp(214,44): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\elias\Documents\Visual Studio 2019\CPProjects\ComputoGrafico2022-2\GraphComp\PACMAN\src\Application.cpp(218,28): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\elias\Documents\Visual Studio 2019\CPProjects\ComputoGrafico2022-2\GraphComp\PACMAN\src\Application.cpp(218,44): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\elias\Documents\Visual Studio 2019\CPProjects\ComputoGrafico2022-2\GraphComp\PACMAN\src\Application.cpp(219,25): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\elias\Documents\Visual Studio 2019\CPProjects\ComputoGrafico2022-2\GraphComp\PACMAN\src\Application.cpp(219,41): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\elias\Documents\Visual Studio 2019\CPProjects\ComputoGrafico2022-2\GraphComp\PACMAN\src\Application.cpp(287,18): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  Generating Code...
+  PACMAN.vcxproj -> C:\Users\elias\Documents\Visual Studio 2019\CPProjects\ComputoGrafico2022-2\GraphComp\x64\Debug\PACMAN.exe
